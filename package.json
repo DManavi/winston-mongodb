@@ -1,5 +1,5 @@
 {
-  "name": "winston-mongodb",
+  "name": "bp-winston-mongodb",
   "license": "MIT",
   "version": "3.0.2",
   "description": "A MongoDB transport for winston",
